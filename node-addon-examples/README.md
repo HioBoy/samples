@@ -38,3 +38,6 @@ $ node ./
 ```
 
 to see the example in action.
+
+## 注意
+在windows上需要使用python2环境下面执行 `npm install`
