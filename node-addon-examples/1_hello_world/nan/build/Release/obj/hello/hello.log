@@ -1,0 +1,7 @@
+﻿  hello.cc
+  win_delay_load_hook.cc
+    正在创建库 E:\V8\node-addon-examples\1_hello_world\nan\build\Release\hello.lib 和对象 E:\V8\node-addon-examples\1_hello_world\nan\build\Release\hello.exp
+  正在生成代码
+  All 63 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  hello.vcxproj -> E:\V8\node-addon-examples\1_hello_world\nan\build\Release\\hello.node
