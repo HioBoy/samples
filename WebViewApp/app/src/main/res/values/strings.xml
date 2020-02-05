@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <string name="show_text_button">Go</string>
+
+</resources>
